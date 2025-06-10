@@ -1,0 +1,17 @@
+@media screen and (max-width: 900px) {
+    .key-check-form #key {
+        width: 90% !important;
+    }
+
+    .key-check-form button {
+        width: 80% !important;
+    }
+
+    .result {
+        width: 90% !important;
+    }
+
+    footer {
+        width: 100% !important;
+    }
+}

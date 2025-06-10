@@ -1,0 +1,22 @@
+:root {
+    /* Cores principais */
+    --bg-primary: #1a1a1a;
+    --bg-secondary: #2d2d2d;
+    --text-primary: #f0f0f0;
+    --text-secondary: #b0b0b0;
+
+    /* Cores de destaque */
+    --accent-primary: #10a37f;
+    /* Verde OpenAI (mantido para consistência) */
+    --accent-hover: #0d8b6a;
+    /* Verde mais escuro para hover */
+
+    /* Cores de estado */
+    --success: #2ecc71;
+    --error: #e74c3c;
+    --warning: #f39c12;
+
+    /* Cores de borda e divisores */
+    --border-color: #444;
+    --divider-color: #333;
+}
